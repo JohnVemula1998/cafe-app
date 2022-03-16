@@ -6,7 +6,7 @@ import { CartProvider } from "react-use-cart";
 function App() {
   return (
     <>
-    <CartProvider>
+//     <CartProvider>
     <Home/>
     <Cart/>
     </CartProvider>
